@@ -1,0 +1,1 @@
+raise ValueError("Ты ввёл букву")
